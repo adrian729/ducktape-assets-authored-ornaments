@@ -1,0 +1,41 @@
+# descriptive: find it and understand it
+id: ivy-corner-top-right
+title: Ivy corner, top-right
+description: A top-right corner in black penwork, drawn as two thin double rules meeting at the vertex under a large curled acanthus leaf, with an ivy vine winding down the vertical rule and a shorter run of tendrils along the horizontal one, pointed ivy leaves with veined interiors, curled tendrils and a curled leaf closing each end of the rules, on a transparent background.
+type: corner
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - ivy
+  - acanthus
+  - leaf
+  - vine
+  - rule
+  - scroll
+colors:
+  - black
+facing: down
+composition: single-ornament
+
+# structural: how it is organised and related
+group: black-penwork
+render:
+  image: {}
+related:
+  - { asset: authored-ornaments/ivy-corner-top-left, role: companion }
+  - { asset: authored-ornaments/ivy-corner-bottom-left, role: companion }
+  - { asset: authored-ornaments/ivy-corner-bottom-right, role: companion }
+  - { asset: authored-ornaments/ivy-manuscript-frame, role: companion }
+usage_notes:
+  - Place at the top-right of a page or box; the rules run along the two adjoining edges and close with curled leaves, not finials.
+  - Use as a whole image; it is a separate drawing, not a rotation or mirror of the other three corners, and not a border-image atlas.
+  - Open line art; the interiors of the leaves are transparent, so it reads best on a light ground.
+display_width: [ 160, 600 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null

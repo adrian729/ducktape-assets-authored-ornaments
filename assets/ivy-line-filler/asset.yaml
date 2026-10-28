@@ -1,0 +1,34 @@
+# descriptive: find it and understand it
+id: ivy-line-filler
+title: Ivy line filler
+description: A slender horizontal line filler in black penwork, a gently waving stem with four pointed ivy leaves on short stalks, a five-petalled flower at the centre, small curled tendrils above and below the stem and a small lozenge terminal at each end, on a transparent background.
+type: divider
+categories:
+  - botanical
+  - floral
+subjects:
+  - ivy
+  - leaf
+  - vine
+  - flower
+  - terminal
+colors:
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: black-penwork
+render:
+  image: {}
+usage_notes:
+  - Complete piece with finished lozenge ends; use as a whole image, do not tile or stretch it.
+  - Thin and about 6:1; it sits between paragraphs or fills the end of a short line.
+display_width: [ 300, 900 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null

@@ -1,0 +1,37 @@
+# descriptive: find it and understand it
+id: acanthus-tailpiece
+title: Penwork acanthus tailpiece
+description: An upright spray in black penwork rising from a short cut stem at the bottom, a tall curling acanthus leaf in the centre with finely hatched lobes, two large acanthus leaves curling down and outward to the left and right, a small ivy leaf and a thin tendril at the upper right, a tendril at the upper left and a hanging flower bud below the stem, on a transparent background.
+type: ornament
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - ivy
+  - leaf
+  - scroll
+  - bud
+  - tailpiece
+colors:
+  - black
+facing: up
+composition: single-ornament
+
+# structural: how it is organised and related
+group: black-penwork
+render:
+  image: {}
+related:
+  - { asset: authored-ornaments/songbirds-headpiece, role: companion }
+usage_notes:
+  - Place centred below the last paragraph of a chapter or section; pairs with songbirds-headpiece at the head of the text.
+  - Open line art; the interiors of the leaves are transparent, so it reads best on a light ground.
+display_width: [ 120, 400 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null

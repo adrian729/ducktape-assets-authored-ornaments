@@ -1,0 +1,42 @@
+# descriptive: find it and understand it
+id: ivy-manuscript-frame
+title: Ruled ivy frame
+description: A complete landscape rectangular frame in black penwork, a thin double rule on all four sides with an ivy vine of pointed three-lobed leaves and curled tendrils running along the outside of the rules, curled acanthus leaves and small finials at the four corners and a small ivy spray at the middle of the top and bottom rules, around a transparent opening, on a transparent background.
+type: frame
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - ivy
+  - acanthus
+  - leaf
+  - vine
+  - rule
+  - frame
+  - finial
+colors:
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: black-penwork
+render:
+  image: {}
+related:
+  - { asset: authored-ornaments/ivy-corner-top-left, role: companion }
+  - { asset: authored-ornaments/ivy-corner-top-right, role: companion }
+  - { asset: authored-ornaments/ivy-corner-bottom-left, role: companion }
+  - { asset: authored-ornaments/ivy-corner-bottom-right, role: companion }
+usage_notes:
+  - Fixed complete frame with a transparent centre; scale it proportionally as one image, its sides are not repeat tiles and it is not a border-image atlas.
+  - Same double rule and ivy as the four separate ivy corners, which serve the same kit on pages of another proportion.
+  - Open line art; the interiors of the leaves are transparent, so it reads best on a light ground.
+display_width: [ 400, 1400 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null

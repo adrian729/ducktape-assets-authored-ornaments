@@ -1,0 +1,38 @@
+# descriptive: find it and understand it
+id: gold-lozenge-divider-end
+title: Gold acanthus divider terminal
+description: A painted divider terminal in textured gold with dark brown contours and pale cream highlights, a pointed acanthus leaf pointing left with a scroll curling up above it and one curling down below it, and a long straight gold stem extending to the right, on a transparent background.
+type: divider
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - acanthus
+  - leaf
+  - scroll
+  - stem
+  - terminal
+colors:
+  - gold
+  - brown
+  - cream
+facing: left
+composition: single-ornament
+
+# structural: how it is organised and related
+group: gold-dividers
+render:
+  image: {}
+related:
+  - { asset: authored-ornaments/gold-lozenge-divider-center, role: companion }
+usage_notes:
+  - Terminal of a flexible divider with gold-lozenge-divider-center; the leaf points left and the stem runs right, so as drawn it closes the left end of a rule and is mirrored for the right end.
+  - Draw the connecting rule at the height of the stem.
+display_width: [ 100, 400 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null

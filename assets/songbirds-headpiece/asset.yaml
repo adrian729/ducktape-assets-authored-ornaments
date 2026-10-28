@@ -1,0 +1,39 @@
+# descriptive: find it and understand it
+id: songbirds-headpiece
+title: Songbirds headpiece
+description: A wide symmetric headpiece in black penwork, two long-tailed songbirds perched on a branching stem and facing each other across a central upright ivy leaf, with solid black ivy leaves, curled tendrils and small berry clusters spreading to both sides, the birds and leaves drawn with transparent hatching, on a transparent background.
+type: ornament
+categories:
+  - animals
+  - botanical
+  - scrollwork
+subjects:
+  - bird
+  - ivy
+  - leaf
+  - vine
+  - berry
+  - headpiece
+colors:
+  - black
+facing: mixed
+composition: single-ornament
+
+# structural: how it is organised and related
+group: black-penwork
+render:
+  image: {}
+related:
+  - { asset: authored-ornaments/acanthus-tailpiece, role: companion }
+usage_notes:
+  - Place above a title or at the head of a chapter; do not tile or stretch it.
+  - Wide 3:1 piece; pairs with acanthus-tailpiece at the end of the text.
+  - Heavier than the other penwork pieces, with solid black leaves; it holds up on darker grounds better than the open line art.
+display_width: [ 300, 1000 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null

@@ -1,0 +1,36 @@
+# descriptive: find it and understand it
+id: ivy-flower-divider
+title: Ivy and flower divider
+description: A long horizontal divider in black penwork, a waving stem carrying pointed ivy leaves, three five-petalled flowers with hatched petals, two curling hatched acanthus leaves and small spiral tendrils, ending in an ivy leaf at the left and an ivy leaf with a tendril at the right, on a transparent background.
+type: divider
+categories:
+  - botanical
+  - floral
+  - scrollwork
+subjects:
+  - ivy
+  - vine
+  - leaf
+  - flower
+  - acanthus
+colors:
+  - black
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: black-penwork
+render:
+  image: {}
+usage_notes:
+  - Complete flourish with two different finished ends; use as a whole image, do not tile or stretch it.
+  - Wide 6:1 piece; it sits as a section break or beneath a heading.
+  - Open line art; the interiors of the leaves and petals are transparent, so it reads best on a light ground.
+display_width: [ 300, 900 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null

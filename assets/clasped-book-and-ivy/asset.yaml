@@ -1,0 +1,36 @@
+# descriptive: find it and understand it
+id: clasped-book-and-ivy
+title: Clasped book among ivy
+description: A closed book seen from above in three-quarter view, in black penwork, with its spine of raised bands at the left, two strap clasps on the right edge of the hatched front cover, a bevelled cover border with corner bosses, visible page edges and a ribbon bookmark hanging out of the fore-edge at the bottom, surrounded on both sides and below by an ivy vine of pointed leaves and curled tendrils, on a transparent background.
+type: illustration
+categories:
+  - reading
+  - botanical
+subjects:
+  - book
+  - clasp
+  - bookmark
+  - ivy
+  - leaf
+  - vine
+colors:
+  - black
+facing: none
+view: three-quarter
+composition: standalone
+
+# structural: how it is organised and related
+group: book
+render:
+  image: {}
+usage_notes:
+  - Complete vignette; keep the book and its ivy together and keep the proportions.
+  - Open line art; the cover and page interiors are transparent, so it reads best on a light ground.
+display_width: [ 200, 600 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null

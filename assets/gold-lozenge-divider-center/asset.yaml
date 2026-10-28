@@ -1,0 +1,37 @@
+# descriptive: find it and understand it
+id: gold-lozenge-divider-center
+title: Gold lozenge divider, centre
+description: A painted lozenge-shaped fleuron in textured gold with dark brown contours and pale cream highlights, a tall pointed leaf above and below and a curled leaf to the left and right around a small dark brown centre, with a straight gold stem ending in a pointed tip on each side, on a transparent background.
+type: divider
+categories:
+  - botanical
+  - scrollwork
+subjects:
+  - fleuron
+  - leaf
+  - stem
+  - centerpiece
+colors:
+  - gold
+  - brown
+  - cream
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: gold-dividers
+render:
+  image: {}
+related:
+  - { asset: authored-ornaments/gold-lozenge-divider-end, role: companion }
+usage_notes:
+  - Centre piece of a flexible divider with gold-lozenge-divider-end; draw a continuous rule beneath it so the pointed stems meet the rule on both sides.
+  - Also works alone as a section mark.
+display_width: [ 120, 400 ]
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+license: null
